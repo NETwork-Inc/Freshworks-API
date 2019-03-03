@@ -1,5 +1,5 @@
 # CRM-PowerBI-Integration
-Python Script for Freshsales REST API
+Python Script for Freshsales CRM REST API
 
 - Provides skeleton for reading the whole Deals Pipeline into a Pandas DataFrame
 - Provides skeleton for writing Deals to Freshsales via REST API
